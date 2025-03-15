@@ -1,0 +1,1 @@
+this is an diploma work. The app is online card game that is quite similar to hearthstone or smth card-like. It has mechanics to do your turn and calculate score that you has. It were not full-realised in all functions I planned to make but it has all the features declared in diploma 
